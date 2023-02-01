@@ -87,3 +87,4 @@ There are *soft* limits and guidelines for gh-pages usage: sites should be < 1GB
 If your site exceeds these quotas, GitHub will send you a notice asking you to modify the repository.
 All content must follow the [community guidelines](https://help.github.com/articles/github-community-guidelines/), e.g. no violence, obscene sex, or illegal stuff.{% endcapture %}
 {% include alert.html text=text color=secondary %}
+
