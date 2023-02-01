@@ -88,4 +88,4 @@ If your site exceeds these quotas, GitHub will send you a notice asking you to m
 All content must follow the [community guidelines](https://help.github.com/articles/github-community-guidelines/), e.g. no violence, obscene sex, or illegal stuff.{% endcapture %}
 {% include alert.html text=text color=secondary %}
 
-![The Tube Map]images/research-train-tube-map.svg)
+![The Tube Map](images/research-train-tube-map.svg)
