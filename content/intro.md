@@ -90,4 +90,4 @@ All content must follow the [community guidelines](https://help.github.com/artic
 
 ![The Tube Map](images/research-train-tube-map.svg)
 
-{% include figure.html img="uresearch-train-tube-map.svg" alt="Tube Map" caption="University Drive, Southport" width="75%" %}
+{% include figure.html img="research-train-tube-map.svg" alt="Tube Map" caption="Tube Map" width="100%" %}
