@@ -1,5 +1,5 @@
 ---
-section Vertical
+section: Vertical
 nav_order: 7
 title: Survey Line
 ---

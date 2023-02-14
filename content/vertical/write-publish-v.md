@@ -1,5 +1,5 @@
 ---
-section Vertical
+section: Vertical
 nav_order: 3
 title: Write and Publish Line
 ---

@@ -1,5 +1,5 @@
 ---
-section Vertical
+section: Vertical
 nav_order: 5
 title: Digital Humanities Line
 ---

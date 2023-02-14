@@ -1,5 +1,5 @@
 ---
-section Vertical
+section: Vertical
 nav_order: 10
 title: Computation Line
 ---
