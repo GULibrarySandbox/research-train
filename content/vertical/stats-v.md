@@ -1,5 +1,5 @@
 ---
-section_id: Vertical
+section Vertical
 nav_order: 8
 title: Stats Light Rail
 ---

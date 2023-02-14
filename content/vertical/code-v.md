@@ -1,5 +1,5 @@
 ---
-section_id: Vertical
+section Vertical
 nav_order: 9
 title: Line of Code
 ---

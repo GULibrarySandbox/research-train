@@ -57,7 +57,7 @@ There are two ways a page can appear in the nav: individual or in a section drop
 The nav follows these rules:
 
 - **Individual listing:** To list a page in the nav individually, add `nav_order` to the front matter of a content page. e.g. `nav_order: 1`. Do *not* include `section_id` or `section` in the front matter.
-- **Section dropdown:** To create a "section" drop down, on the first content page of the section, add `nav_order` and `section_id` to the front matter. The value of `section_id` will be displayed as the label for the section drop down. e.g. `section_id: Workshop Prep`. The page's title will be listed as the first item in the section dropdown.
+- **Section dropdown:** To create a "section" drop down, on the first content page of the section, add `nav_order` and `section_id` to the front matter. The value of `section_id` will be displayed as the label for the section drop down. e.g. `section Workshop Prep`. The page's title will be listed as the first item in the section dropdown.
 - **Section pages:** To add additional pages to the section dropdown, add `section` and `nav_order` to the front matter of a markdown file. The value of `section` must match a `section_id` set up on another markdown file. The page's title will appear under the corresponding section dropdown. The pages in the section will sort according to `nav_order` within the section--however, the page that sets up the section (with `section_id`) will always be listed first. 
 
 Note: 
@@ -81,7 +81,7 @@ Section lead:
 
 ```
 ---
-section_id: Getting Started
+section Getting Started
 nav_order: 3
 title: Install Git and GitHub Desktop
 ---

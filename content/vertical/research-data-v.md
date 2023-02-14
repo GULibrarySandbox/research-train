@@ -1,5 +1,5 @@
 ---
-section_id: Vertical
+section Vertical
 nav_order: 4
 title: Research Data Line
 ---
