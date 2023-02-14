@@ -3,4 +3,4 @@ nav_order: 8
 title: Stats Light Rail
 ---
 
-{% include figure.html img="stats-vertical.png" alt="Literature Review Line" caption="Literature Review Line" width="100%" %}
+{% include figure.html img="Stats-Light-Rail.png" alt="Stats Light Rail" caption="Stats Light Rail" width="100%" %}

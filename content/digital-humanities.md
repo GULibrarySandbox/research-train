@@ -3,4 +3,4 @@ nav_order: 5
 title: Digital Humanities Line
 ---
 
-{% include figure.html img="digital-humanities-vertical.png" alt="Literature Review Line" caption="Literature Review Line" width="100%" %}
+{% include figure.html img="Digital-Humanities-Line.png" alt="Digital Humanities Line" caption="Digital Humanities Line" width="100%" %}

@@ -1,6 +1,6 @@
 ---
 nav_order: 3
-title: Write and Publish Line
+title: Write and Publish Loop
 ---
 
-{% include figure.html img="write-and-publish-vertical.png" alt="Literature Review Line" caption="Literature Review Line" width="100%" %}
+{% include figure.html img="Write-and-Publish-Loop.png" alt="Write and Publish Loop" caption="Write and Publish Loop" width="100%" %}
