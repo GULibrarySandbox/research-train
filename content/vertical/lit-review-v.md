@@ -1,6 +1,6 @@
 ---
 section_id: Vertical
-nav_order: 2
+nav_order: 10
 title: Literature Review Line
 ---
 
